@@ -1,0 +1,36 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.env
+
+# macOS-related
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE-related
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Project-specific files
+pomodoro_settings.json
+icon/
+
+# Other
+*.bak
+*.swp
+*.tmp
